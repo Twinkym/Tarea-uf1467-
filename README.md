@@ -11,3 +11,4 @@
 ## CSS
 
 -Creo el stylo personalizado donde trato de igualar las imgenes de los links, doy forma a la foto y centro los elementos cumpliendo con el diseño responsive.
+![captura-tarea-perfil](https://github.com/Twinkym/perfil/assets/73356704/4f1d277a-c0c3-49e4-acec-61df74052df1)
