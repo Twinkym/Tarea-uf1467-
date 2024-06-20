@@ -12,15 +12,15 @@ body{
     text-align: center !important;
 }
 
-.container-fluid{
-    top: 0;
-    bottom: 100px;
+.card{
+    padding: 1em;
 }
 
 .card-link img{
     width: 20vw;
     height: 10vh;
 }
+
 
 #linked{
     width: 50px;
