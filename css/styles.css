@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    justify-content: center !important;
+    align-items: center !important;
+    text-align: center !important;
+}
+
+.container-fluid{
+    top: 0;
+    bottom: 100px;
+}
+
+.card-link img{
+    width: 20vw;
+    height: 10vh;
+}
+
+#linked{
+    width: 50px;
+}
+
+#git{
+    width: 80px;
+}
+
+#foto{
+    border-radius: 100%;
+    width: 20dvw;
+    margin: 0 auto;
+    top: 2em;
+}
